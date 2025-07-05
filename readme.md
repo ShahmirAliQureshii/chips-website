@@ -25,13 +25,9 @@ A **modern, aesthetic, and responsive landing page** for a chips/snack brand —
 
 ## 📂 Project Structure
 
-📁 Chips Website/
-├── index.html # Page structure
+📁 Chips Website/<br>
+├── index.html # Page structure<br>
 └── style.css # Styling with layout, animation, and responsiveness
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -49,7 +45,7 @@ The goal of this project was to practice and showcase my skills in frontend layo
 ## 🚀 How to Run Locally
 
 ```bash`
-git clone https://github.com/ShahmirAliQureshii/chips-landing-page.git
+git clone [https://github.com/ShahmirAliQureshii/chips-website.git](https://github.com/ShahmirAliQureshii/chips-website)
 cd chips-landing-page
 # Then open index.html in your browser
 ## 🔗 Links 
@@ -58,5 +54,5 @@ cd chips-landing-page
 🔗 GitHub Repo: https://github.com/ShahmirAliQureshii/chips-landing-page
 
 ## 🧑‍💻 Author
-Made with 💛 and a lot of creative effort by Shahmir Ali Qureshi
+Made with 💛 and a lot of creative effort by Shahmir Ali Qureshi<br>
 Feel free to fork, star, or contribute!
